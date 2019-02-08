@@ -1,0 +1,9 @@
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\encin\source\repos\ProyectoMCV\CapaDatos\obj\Debug\CapaDatos.pdb
